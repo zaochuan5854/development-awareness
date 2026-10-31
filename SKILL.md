@@ -1,6 +1,6 @@
 ---
 name: development-awareness
-description: Guides how to approach coding work. Use when writing, modifying, designing, debugging, or running code: confirming vague requests, reusing existing libraries, deciding on web search, YAGNI, matching existing code, background execution.
+description: "Guides how to approach coding work. Use when writing, modifying, designing, debugging, or running code: confirming vague requests, reusing existing libraries, deciding on web search, YAGNI, matching existing code, background execution."
 ---
 
 # Development Awareness
